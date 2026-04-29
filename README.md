@@ -19,7 +19,6 @@ hr-analytics-project/
 │
 ├── dataset/
 │   ├── HR\_Analytics.csv              # Raw dataset
-│   └── HR\_Analytics.zip              # Compressed dataset
 │
 ├── sql/
 │   ├── 01\_create\_table.sql           # Schema setup
